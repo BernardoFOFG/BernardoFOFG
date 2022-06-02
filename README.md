@@ -1,11 +1,9 @@
 ### Olá, meu nome é Bernardo Filipe, e sou desenvolvedor front-end! 👋
-
-- 🔭 Estou atualmente trabalhando: HTML, CSS
-- 🌱 Estou atualmente aprendendo: Javascript, React.js
+- 🌱 Estou atualmente aprendendo: HTML, CSS, Javascript, React.js
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/BernardoFOFG">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BernardoFOFG&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoFOFG&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
