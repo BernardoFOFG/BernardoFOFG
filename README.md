@@ -1,5 +1,6 @@
 ### Olá, meu nome é Bernardo Filipe, e sou desenvolvedor front-end! 👋
-- 🌱 Estou atualmente aprendendo: HTML, CSS, Javascript, React.js, Svelte
+- ❤️ Preparado para desenvolver: HTML, CSS, Javascript
+- 🌱 Estou atualmente aprendendo: React.js, Svelte, Angular
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
@@ -21,7 +22,13 @@
 </div>
   <br>
 <div>
-  <a href="https://instagram.com/BernardoFOFG" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:bernardofofg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bernardofofg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/BernardoFOFG" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a> 
+  <a href = "mailto:bernardofofg@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/bernardofofg" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
   </div>
