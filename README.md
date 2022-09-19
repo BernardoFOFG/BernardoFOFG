@@ -1,6 +1,6 @@
 ### Olá, meu nome é Bernardo Filipe, e sou desenvolvedor front-end! 👋
 - ❤️ Preparado para desenvolver: HTML, CSS, Javascript
-- 🌱 Estou atualmente aprendendo: React.js, Svelte, Angular
+- 🌱 Estou atualmente aprendendo: TypeScript, React.js, Svelte
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
