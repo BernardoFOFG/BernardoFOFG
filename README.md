@@ -1,15 +1,16 @@
 ### Olá, meu nome é Bernardo Filipe, e sou desenvolvedor front-end! 👋
-- ❤️ Preparado para desenvolver: HTML, CSS, Javascript,  React.js, Svelte, TailwindCSS
-- 🌱 Estou atualmente aprendendo: TypeScript, Next.Js
+- ❤️ Preparado para desenvolver: HTML, CSS, Javascript,  React.js, Svelte, TailwindCSS, MySQL,
+- 🌱 Estou atualmente aprendendo: TypeScript, Next.Js, PHP, Laravel.
 - 😄 Pronouns: Ele/Dele
 
-<div align="center">
-  <a href="https://github.com/BernardoFOFG">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BernardoFOFG&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true%22"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoFOFG&layout=compact&langs_count=7&theme=codeSTACKr"/>
+<div align='center'>
+<img height="180em" src="https://streak-stats.demolab.com?user=bernardoFOFG&theme=codestackr&hide_border=true&border_radius=8&locale=pt_BR&date_format=j%20M%5B%20Y%5D](https://streak-stats.demolab.com?user=bernardoFOFG&theme=codestackr&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+<div>
+ <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoFOFG&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  </div>
 </div>
 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Bernardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bernardo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bernardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,7 +22,7 @@
   <img align="center" alt="Bernardo-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
   <br>
-<div>
+<div align="center">
   <a href="https://instagram.com/BernardoFOFG" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a> 
