@@ -1,6 +1,6 @@
 ### Olá, meu nome é Bernardo Filipe, e sou desenvolvedor front-end! 👋
-- ❤️ Preparado para desenvolver: HTML, CSS, Javascript,  React.js, Svelte, TailwindCSS, MySQL,
-- 🌱 Estou atualmente aprendendo: TypeScript, Next.Js, PHP, Laravel.
+- ❤️ Preparado para desenvolver: HTML, CSS, Javascript/Typescript, React.js, Next.JS, TailwindCSS,,
+- 🌱 Estou atualmente aprendendo: GraphQL, Node.JS.
 - 😄 Pronouns: Ele/Dele
 
 <div align='center'>
