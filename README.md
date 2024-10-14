@@ -3,10 +3,7 @@
 - 🌱 Estou atualmente aprendendo: NodeJS, Fastify, Express e consolidando os conhecimentos em back-end para transicionar a carreira para desenvolvedor FullStack .
 
 <div align='center'>
-<img height="180em" src="https://streak-stats.demolab.com?user=bernardoFOFG&theme=codestackr&hide_border=true&border_radius=8&locale=pt_BR&date_format=j%20M%5B%20Y%5D](https://streak-stats.demolab.com?user=bernardoFOFG&theme=codestackr&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
-<div>
- <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoFOFG&layout=compact&langs_count=7&theme=codeSTACKr"/>
-  </div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardofofg&show_icons=true&theme=gotham"/>
 </div>
 
   <div style="display: inline_block" align="center"><br>
