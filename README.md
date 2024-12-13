@@ -9,7 +9,13 @@
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Bernardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bernardo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://devicon-website.vercel.app/api/nextjs/original.svg?color=%23FFFFFF"></img>
+  <img  align="center" height="30" width="40" src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg"></img>
   <img align="center" alt="Bernardo-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" height="30" width="40" src="https://devicon-website.vercel.app/api/express/original.svg?color=%23FFFFFF"/>
+  <img  align="center" height="30" width="40" src="https://devicon-website.vercel.app/api/mongodb/plain-wordmark.svg"></img>
+  <img align="center" height="30" width="40" src="https://devicon-website.vercel.app/api/git/original.svg"></img>
+    
 </div>
   <br>
 <div align="center">
